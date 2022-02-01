@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff7000</color>
+    <color name="colorPrimaryVariant">#ff7000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#CDCDCD</color>
+
+    <array name="autosize_small">
+        <item>4sp</item>
+        <item>6sp</item>
+    </array>
+
+    <array name="autosize_normal">
+        <item>11sp</item>
+        <item>14sp</item>
+        <item>18sp</item>
+    </array>
+
+</resources>
